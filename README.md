@@ -16,11 +16,10 @@
 
 
 
-
+# <INS>VORTEX</INS>
 > [!important]
 > ### Join My Discord Here:
-# <INS>VORTEX</INS>
-#### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
+> #### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
 > [!WARNING]
 > The info is information I have gathered and placed in one location for the 4k vehicles that I use on my server VORTEX.
 
