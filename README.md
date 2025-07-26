@@ -2,8 +2,7 @@
 I do NOT own this mod and I did not create this mod.
 Credit goes to: 
 # 4KBOSSK
-# 4KBOSSKVehiclePackage
-# https://steamcommunity.com/sharedfiles/filedetails/?id=3387855369&searchtext=4kboos
+# [4KBOSSKVehiclePackage](https://steamcommunity.com/sharedfiles/filedetails/?id=3387855369&searchtext=4kboos)
 Any questions about the mod, please join his discord and inquire more information below.
 # [4kBOOSk DISCORD](https://discord.gg/U53MFkSCYb)
 
