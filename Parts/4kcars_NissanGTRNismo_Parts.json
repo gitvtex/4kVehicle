@@ -1,0 +1,65 @@
+{
+  "m_Version": 12,
+  "DisplayName": "NissanGTRNismo",
+  "Icon": "Car",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "NissanGTRNismo_Codriverdoor",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "NissanGTRNismo_Driverdoor",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "NissanGTRNismo_Hood",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "NissanGTRNismo_Trunk",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "NissanGTRNismo_Wheel",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
