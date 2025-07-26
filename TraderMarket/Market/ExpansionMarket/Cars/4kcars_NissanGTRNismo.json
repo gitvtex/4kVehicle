@@ -1,0 +1,110 @@
+{
+  "m_Version": 12,
+  "DisplayName": "NissanGTRNismo",
+  "Icon": "Car",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+		"ClassName": "NissanGTRNismo_White",
+		"MaxPriceThreshold": 800,
+		"MinPriceThreshold": 800,
+		"SellPricePercent": 50.0,
+		"MaxStockThreshold": 1,
+		"MinStockThreshold": 1,
+		"QuantityPercent": -1,
+		"SpawnAttachments": [
+			"CarBattery",
+			"CarRadiator",
+			"SparkPlug",
+			"NissanGTRNismo_Driverdoor",
+			"NissanGTRNismo_Codriverdoor",
+			"NissanGTRNismo_Trunk",
+			"NissanGTRNismo_Hood",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"HeadlightH7",
+			"HeadlightH7"
+		],
+		"Variants": []
+    },
+    {
+		"ClassName": "NissanGTRNismo_Red",
+		"MaxPriceThreshold": 800,
+		"MinPriceThreshold": 800,
+		"SellPricePercent": 50.0,
+		"MaxStockThreshold": 1,
+		"MinStockThreshold": 1,
+		"QuantityPercent": -1,
+		"SpawnAttachments": [
+			"CarBattery",
+			"CarRadiator",
+			"SparkPlug",
+			"NissanGTRNismo_Driverdoor_Red",
+			"NissanGTRNismo_Codriverdoor_Red",
+			"NissanGTRNismo_Trunk_Red",
+			"NissanGTR_Hood_Red",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"HeadlightH7",
+			"HeadlightH7"
+		],
+		"Variants": []
+    },
+    {
+		"ClassName": "NissanGTRNismo_Black",
+		"MaxPriceThreshold": 800,
+		"MinPriceThreshold": 800,
+		"SellPricePercent": 50.0,
+		"MaxStockThreshold": 1,
+		"MinStockThreshold": 1,
+		"QuantityPercent": -1,
+		"SpawnAttachments": [
+			"CarBattery",
+			"CarRadiator",
+			"SparkPlug",
+			"NissanGTR_Driverdoor_Black",
+			"NissanGTR_Codriverdoor_Black",
+			"NissanGTR_Trunk_Black",
+			"NissanGTR_Hood_Black",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"HeadlightH7",
+			"HeadlightH7" 
+		],
+		"Variants": []
+    },
+    {
+		"ClassName": "NissanGTRNismo_DarkPurple",
+		"MaxPriceThreshold": 800,
+		"MinPriceThreshold": 800,
+		"SellPricePercent": 50.0,
+		"MaxStockThreshold": 1,
+		"MinStockThreshold": 1,
+		"QuantityPercent": -1,
+		"SpawnAttachments": [
+			"CarBattery",
+			"CarRadiator",
+			"SparkPlug",
+			"NissanGTR_Driverdoor_DarkPurple",
+			"NissanGTR_Codriverdoor_DarkPurple",
+			"NissanGTR_Trunk_DarkPurple",
+			"NissanGTR_Hood_DarkPurple",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"NissanGTRNismo_Wheel",
+			"HeadlightH7",
+			"HeadlightH7" 
+		],
+		"Variants": []
+    }
+  ]
+}
