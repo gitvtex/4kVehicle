@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+  <type name="Chevrolet_NapalmNova_Purple">
+    <lifetime>172800</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Chevrolet_NapalmNova_Driverdoor_Purple">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Chevrolet_NapalmNova_CoDriver_Purple">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Chevrolet_NapalmNova_Hood_Purple">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Chevrolet_NapalmNova_Trunk_Purple">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Chevrolet_NapalmNova_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Chevrolet_NapalmNova_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Chevrolet_NapalmNova_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Chevrolet_NapalmNova_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  </types>

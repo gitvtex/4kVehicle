@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+  <type name="dodgechargerhellcat_white">
+    <lifetime>172800</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_driverdoor_white">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_codriver_white">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_hood_white">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_trunk_white">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_cargo1_white">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_cargo2_white">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="dodgecharger_wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  </types>

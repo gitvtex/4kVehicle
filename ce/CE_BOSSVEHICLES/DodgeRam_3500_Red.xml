@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+  <type name="DodgeRam_3500_Red">
+    <lifetime>172800</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="DodgeRam_3500_DriverDoor_Red">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="DodgeRam_3500_CoDriverDoor_Red">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="DodgeRam_3500_Hood_Red">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="DodgeRam_3500_Trunk_Red">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="DodgeRam_3500_FrontBumper">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="DodgeRam_3500_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="DodgeRam_3500_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="DodgeRam_3500_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="DodgeRam_3500_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  </types>
