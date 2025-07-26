@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+  <type name="Kamaz_TyphoonK_Green">
+    <lifetime>172800</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Driver">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_CoDriver">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_EngineDoor">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Trunk">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Cargo1">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Cargo2">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Cargo3">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Cargo4">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Cargo5">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Cargo6">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Cargo7">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Cargo8">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  <type name="Kamaz_TyphoonK_Wheel">
+    <lifetime>7200</lifetime>
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"></flags>
+    </type>
+  </types>
