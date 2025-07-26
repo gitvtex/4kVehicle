@@ -1,22 +1,26 @@
 # <ins>4kVehicleFiles</ins>
 
-### 4KBOSSKVehiclePackage
+## 4KBOSSKVehiclePackage
 >[!IMPORTANT]
 > #### 4KBOSSK
 > ##### [4KBOSSKVehiclePackage](https://steamcommunity.com/sharedfiles/filedetails/?id=3387855369&searchtext=4kboos)
 
 > [!TIP]
-> Any questions about the mod, please join his discord and inquire more information below.
-> <sub>[4KBOSSK DISCORD](https://discord.gg/U53MFkSCYb)</sub>
+> Any questions about the mod, please join the 4KBOSSK DISCORD and inquire more information below.
+> #### [4KBOSSK DISCORD](https://discord.gg/U53MFkSCYb)
 
 > [!NOTE]
 > _All the files listed in this are used on my server VORTEX, I do NOT own this mod, I did not create this mod. I am Simply trying to share the information I have gathered with others._
 
 
+
+
+
+
 > [!important]
 > ### Join My Discord Here:
 ## VORTEX
-### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
+#### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
 > [!WARNING]
 > The info is information I have gathered and placed in one location for the 4k vehicles that I use on my server VORTEX.
 
