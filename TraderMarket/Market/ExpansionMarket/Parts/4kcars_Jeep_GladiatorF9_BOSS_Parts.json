@@ -18,6 +18,34 @@
       "Variants": []
     },
     {
+      "ClassName": "JeepGladiator_Wheel",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "JeepGladiator_Wheel2",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "JeepGladiator_Wheel2_White",
+        "JeepGladiator_Wheel2_Pink",
+        "JeepGladiator_Wheel2_Green",
+        "JeepGladiator_Wheel2_Blue",
+        "JeepGladiator_Wheel2_Black"
+      ]
+    },
+    {
       "ClassName": "Jeep_GladiatorF9_Cargo_Door1",
       "MaxPriceThreshold": 2500,
       "MinPriceThreshold": 2500,
@@ -145,3 +173,4 @@
     }
   ]
 }
+
