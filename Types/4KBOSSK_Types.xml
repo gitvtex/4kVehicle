@@ -3454,13 +3454,43 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-
-<type name="Jeep_Gladiator_Wheel">
+    
+<type name="JeepGladiator_Wheel">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-
-<type name="Jeep_Gladiator_Wheel_Destroyed">
+    
+<type name="JeepGladiator_Wheel2">
+    <lifetime>1888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+    
+<type name="JeepGladiator_Wheel2_White">
+    <lifetime>1888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+    
+<type name="JeepGladiator_Wheel2_Pink">
+    <lifetime>1888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+    
+<type name="JeepGladiator_Wheel2_Green">
+    <lifetime>1888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+    
+<type name="JeepGladiator_Wheel2_Black">
+    <lifetime>1888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+    
+<type name="JeepGladiator_Wheel2_Blue">
+    <lifetime>1888000</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+</type>
+    
+<type name="JeepGladiator_Wheel_Destroyed">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
