@@ -256,7 +256,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_hunter">
+<type name="jeep_gladiatorf9_cargo_door1_camo_hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -264,7 +264,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_redtiger">
+<type name="jeep_gladiatorf9_cargo_door1_camo_redtiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -272,7 +272,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_flecktarn">
+<type name="jeep_gladiatorf9_trunk_camo_flecktarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -280,7 +280,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_orange">
+<type name="jeep_gladiatorf9_cargo_door2_camo_orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -304,11 +304,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_skulls">
+<type name="jeep_gladiatorf9_cargo_door2_camo_skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_flecktarn">
+<type name="jeep_gladiatorf9_cargo_door2_camo_flecktarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -324,23 +324,23 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_abominable">
+<type name="jeep_gladiatorf9_driver_door_camo_abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_redtiger">
+<type name="jeep_gladiatorf9_hood_camo_redtiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_redtiger">
+<type name="jeep_gladiatorf9_driver_door_camo_redtiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_dragonmoss">
+<type name="jeep_gladiatorf9_cargo_door1_camo_dragonmoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_pinkpython">
+<type name="jeep_gladiatorf9_hood_camo_pinkpython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -348,7 +348,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_hunter">
+<type name="jeep_gladiatorf9_driver_door_camo_hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -380,7 +380,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_bluetiger">
+<type name="jeep_gladiatorf9_codriver_door_camo_bluetiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -388,7 +388,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_orange">
+<type name="jeep_gladiatorf9_trunk_camo_orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -396,7 +396,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_orange">
+<type name="jeep_gladiatorf9_codriver_door_camo_orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -404,11 +404,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_skulls">
+<type name="jeep_gladiatorf9_trunk_camo_skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_bluetiger">
+<type name="jeep_gladiatorf9_cargo_door1_camo_bluetiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -416,7 +416,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_skulls">
+<type name="jeep_gladiatorf9_codriver_door_camo_skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -432,11 +432,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_nightseas">
+<type name="jeep_gladiatorf9_codriver_door_camo_nightseas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_orange">
+<type name="jeep_gladiatorf9_cargo_door1_camo_orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -460,7 +460,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_nightseas">
+<type name="jeep_gladiatorf9_cargo_door1_camo_nightseas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -468,7 +468,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_bluetiger">
+<type name="jeep_gladiatorf9_trunk_camo_bluetiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -488,11 +488,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_abominable">
+<type name="jeep_gladiatorf9_cargo_door2_camo_abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_topotrip">
+<type name="jeep_gladiatorf9_codriver_door_camo_topotrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -500,15 +500,15 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_nightseas">
+<type name="jeep_gladiatorf9_trunk_camo_nightseas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_pinkpython">
+<type name="jeep_gladiatorf9_trunk_camo_pinkpython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_pinkpython">
+<type name="jeep_gladiatorf9_codriver_door_camo_pinkpython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -520,23 +520,23 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_dragonmoss">
+<type name="jeep_gladiatorf9_cargo_door2_camo_dragonmoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_dragonmoss">
+<type name="jeep_gladiatorf9_driver_door_camo_dragonmoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_blue2">
+<type name="jeep_gladiatorf9_driver_door_camo_blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_orange">
+<type name="jeep_gladiatorf9_driver_door_camo_orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_flecktarn">
+<type name="jeep_gladiatorf9_hood_camo_flecktarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -544,11 +544,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_skulls">
+<type name="jeep_gladiatorf9_driver_door_camo_skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_abominable">
+<type name="jeep_gladiatorf9_cargo_door1_camo_abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -556,15 +556,15 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_hunter">
+<type name="jeep_gladiatorf9_hood_camo_hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_topotrip">
+<type name="jeep_gladiatorf9_cargo_door2_camo_topotrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_flecktarn">
+<type name="jeep_gladiatorf9_driver_door_camo_flecktarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -584,7 +584,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_pinkpython">
+<type name="jeep_gladiatorf9_cargo_door1_camo_pinkpython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -592,11 +592,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_pinkpython">
+<type name="jeep_gladiatorf9_driver_door_camo_pinkpython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_blue2">
+<type name="jeep_gladiatorf9_cargo_door2_camo_blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -616,7 +616,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_blue2">
+<type name="jeep_gladiatorf9_codriver_door_camo_blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -632,7 +632,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_redtiger">
+<type name="jeep_gladiatorf9_codriver_door_camo_redtiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -640,7 +640,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_vanished">
+<type name="jeep_gladiatorf9_trunk_camo_vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -664,7 +664,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_topotrip">
+<type name="jeep_gladiatorf9_trunk_camo_topotrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -676,7 +676,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_bluetiger">
+<type name="jeep_gladiatorf9_hood_camo_bluetiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -692,7 +692,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_redtiger">
+<type name="jeep_gladiatorf9_cargo_door2_camo_redtiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -700,11 +700,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_orange">
+<type name="jeep_gladiatorf9_hood_camo_orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_bluetiger">
+<type name="jeep_gladiatorf9_cargo_door2_camo_bluetiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -712,7 +712,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_skulls">
+<type name="jeep_gladiatorf9_hood_camo_skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -720,11 +720,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_nightseas">
+<type name="jeep_gladiatorf9_hood_camo_nightseas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_pinkpython">
+<type name="jeep_gladiatorf9_cargo_door2_camo_pinkpython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -744,11 +744,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_nightseas">
+<type name="jeep_gladiatorf9_driver_door_camo_nightseas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_nightseas">
+<type name="jeep_gladiatorf9_cargo_door2_camo_nightseas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -768,7 +768,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_blue2">
+<type name="jeep_gladiatorf9_hood_camo_blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -776,11 +776,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_abominable">
+<type name="jeep_gladiatorf9_hood_camo_abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_vanished">
+<type name="jeep_gladiatorf9_cargo_door1_camo_vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -792,7 +792,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_vanished">
+<type name="jeep_gladiatorf9_cargo_door2_camo_vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -808,15 +808,15 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_skulls">
+<type name="jeep_gladiatorf9_cargo_door1_camo_skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_dragonmoss">
+<type name="jeep_gladiatorf9_hood_camo_dragonmoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_vanished">
+<type name="jeep_gladiatorf9_codriver_door_camo_vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -824,11 +824,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_topotrip">
+<type name="jeep_gladiatorf9_cargo_door1_camo_topotrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_redtiger">
+<type name="jeep_gladiatorf9_trunk_camo_redtiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -848,7 +848,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door2_cammo_hunter">
+<type name="jeep_gladiatorf9_cargo_door2_camo_hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -864,11 +864,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_vanished">
+<type name="jeep_gladiatorf9_hood_camo_vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_vanished">
+<type name="jeep_gladiatorf9_driver_door_camo_vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -896,7 +896,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_blue2">
+<type name="jeep_gladiatorf9_trunk_camo_blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -908,11 +908,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_hood_cammo_topotrip">
+<type name="jeep_gladiatorf9_hood_camo_topotrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_topotrip">
+<type name="jeep_gladiatorf9_driver_door_camo_topotrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -932,7 +932,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_driver_door_cammo_bluetiger">
+<type name="jeep_gladiatorf9_driver_door_camo_bluetiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -952,11 +952,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_flecktarn">
+<type name="jeep_gladiatorf9_codriver_door_camo_flecktarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_hunter">
+<type name="jeep_gladiatorf9_trunk_camo_hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -964,15 +964,15 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_abominable">
+<type name="jeep_gladiatorf9_trunk_camo_abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_abominable">
+<type name="jeep_gladiatorf9_codriver_door_camo_abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_hunter">
+<type name="jeep_gladiatorf9_codriver_door_camo_hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -980,7 +980,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_flecktarn">
+<type name="jeep_gladiatorf9_cargo_door1_camo_flecktarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -996,11 +996,11 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_trunk_cammo_dragonmoss">
+<type name="jeep_gladiatorf9_trunk_camo_dragonmoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_codriver_door_cammo_dragonmoss">
+<type name="jeep_gladiatorf9_codriver_door_camo_dragonmoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -1012,7 +1012,7 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="jeep_gladiatorf9_cargo_door1_cammo_blue2">
+<type name="jeep_gladiatorf9_cargo_door1_camo_blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
@@ -4528,367 +4528,367 @@
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_cammo_RedTiger">
+<type name="Jeep_GladiatorF9_BOSS_camo_RedTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_cammo_RedTiger">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_RedTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_cammo_RedTiger">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_RedTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_cammo_RedTiger">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_RedTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_cammo_RedTiger">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_RedTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_cammo_RedTiger">
+<type name="Jeep_GladiatorF9_Hood_camo_RedTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_cammo_RedTiger">
+<type name="Jeep_GladiatorF9_Trunk_camo_RedTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_cammo_BlueTiger">
+<type name="Jeep_GladiatorF9_BOSS_camo_BlueTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_cammo_BlueTiger">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_BlueTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_cammo_BlueTiger">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_BlueTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_cammo_BlueTiger">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_BlueTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_cammo_BlueTiger">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_BlueTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_cammo_BlueTiger">
+<type name="Jeep_GladiatorF9_Hood_camo_BlueTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_cammo_BlueTiger">
+<type name="Jeep_GladiatorF9_Trunk_camo_BlueTiger">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_Cammo_Hunter">
+<type name="Jeep_GladiatorF9_BOSS_camo_Hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_Hunter">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_Hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_Hunter">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_Hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_Hunter">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_Hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_Hunter">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_Hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_Hunter">
+<type name="Jeep_GladiatorF9_Hood_camo_Hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_Hunter">
+<type name="Jeep_GladiatorF9_Trunk_camo_Hunter">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_Cammo_FleckTarn">
+<type name="Jeep_GladiatorF9_BOSS_camo_FleckTarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_FleckTarn">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_FleckTarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_FleckTarn">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_FleckTarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_FleckTarn">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_FleckTarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_FleckTarn">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_FleckTarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_FleckTarn">
+<type name="Jeep_GladiatorF9_Hood_camo_FleckTarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_FleckTarn">
+<type name="Jeep_GladiatorF9_Trunk_camo_FleckTarn">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_Cammo_Orange">
+<type name="Jeep_GladiatorF9_BOSS_camo_Orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_Orange">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_Orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_Orange">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_Orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_Orange">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_Orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_Orange">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_Orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_Orange">
+<type name="Jeep_GladiatorF9_Hood_camo_Orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_Orange">
+<type name="Jeep_GladiatorF9_Trunk_camo_Orange">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_Cammo_TopoTrip">
+<type name="Jeep_GladiatorF9_BOSS_camo_TopoTrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_TopoTrip">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_TopoTrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_TopoTrip">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_TopoTrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_TopoTrip">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_TopoTrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_TopoTrip">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_TopoTrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_TopoTrip">
+<type name="Jeep_GladiatorF9_Hood_camo_TopoTrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_TopoTrip">
+<type name="Jeep_GladiatorF9_Trunk_camo_TopoTrip">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_Cammo_Abominable">
+<type name="Jeep_GladiatorF9_BOSS_camo_Abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_Abominable">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_Abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_Abominable">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_Abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_Abominable">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_Abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_Abominable">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_Abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_Abominable">
+<type name="Jeep_GladiatorF9_Hood_camo_Abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_Abominable">
+<type name="Jeep_GladiatorF9_Trunk_camo_Abominable">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_Cammo_Vanished">
+<type name="Jeep_GladiatorF9_BOSS_camo_Vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_Vanished">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_Vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_Vanished">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_Vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_Vanished">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_Vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_Vanished">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_Vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_Vanished">
+<type name="Jeep_GladiatorF9_Hood_camo_Vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_Vanished">
+<type name="Jeep_GladiatorF9_Trunk_camo_Vanished">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_Cammo_DragonMoss">
+<type name="Jeep_GladiatorF9_BOSS_camo_DragonMoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_DragonMoss">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_DragonMoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_DragonMoss">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_DragonMoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_DragonMoss">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_DragonMoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_DragonMoss">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_DragonMoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_DragonMoss">
+<type name="Jeep_GladiatorF9_Hood_camo_DragonMoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_DragonMoss">
+<type name="Jeep_GladiatorF9_Trunk_camo_DragonMoss">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_cammo_NightSeas">
+<type name="Jeep_GladiatorF9_BOSS_camo_NightSeas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_NightSeas">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_NightSeas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_NightSeas">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_NightSeas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_NightSeas">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_NightSeas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_NightSeas">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_NightSeas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_NightSeas">
+<type name="Jeep_GladiatorF9_Hood_camo_NightSeas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_NightSeas">
+<type name="Jeep_GladiatorF9_Trunk_camo_NightSeas">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_cammo_Skulls">
+<type name="Jeep_GladiatorF9_BOSS_camo_Skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_Skulls">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_Skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_Skulls">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_Skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_Skulls">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_Skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_Skulls">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_Skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_Skulls">
+<type name="Jeep_GladiatorF9_Hood_camo_Skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_Skulls">
+<type name="Jeep_GladiatorF9_Trunk_camo_Skulls">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_cammo_PinkPython">
+<type name="Jeep_GladiatorF9_BOSS_camo_PinkPython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_PinkPython">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_PinkPython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_PinkPython">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_PinkPython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_PinkPython">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_PinkPython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_PinkPython">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_PinkPython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_PinkPython">
+<type name="Jeep_GladiatorF9_Hood_camo_PinkPython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_PinkPython">
+<type name="Jeep_GladiatorF9_Trunk_camo_PinkPython">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_BOSS_cammo_Blue2">
+<type name="Jeep_GladiatorF9_BOSS_camo_Blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Driver_Door_Cammo_Blue2">
+<type name="Jeep_GladiatorF9_Driver_Door_camo_Blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_CoDriver_Door_Cammo_Blue2">
+<type name="Jeep_GladiatorF9_CoDriver_Door_camo_Blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door1_Cammo_Blue2">
+<type name="Jeep_GladiatorF9_Cargo_Door1_camo_Blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Cargo_Door2_Cammo_Blue2">
+<type name="Jeep_GladiatorF9_Cargo_Door2_camo_Blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Hood_Cammo_Blue2">
+<type name="Jeep_GladiatorF9_Hood_camo_Blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
-<type name="Jeep_GladiatorF9_Trunk_Cammo_Blue2">
+<type name="Jeep_GladiatorF9_Trunk_camo_Blue2">
     <lifetime>1888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 </type>
