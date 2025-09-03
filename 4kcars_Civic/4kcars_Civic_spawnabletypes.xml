@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="Civic_White">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_DriverDoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_CoDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Civic_Red">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_DriverDoor_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_CoDriver_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Trunk_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Hood_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Civic_Black">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_DriverDoor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_CoDriver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Trunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Hood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Civic_Blue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_DriverDoor_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_CoDriver_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Trunk_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Hood_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Civic_Green">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_DriverDoor_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_CoDriver_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Trunk_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Hood_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Civic_Yellow">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_DriverDoor_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_CoDriver_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Trunk_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Hood_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Civic_RedCustom">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_DriverDoor_RedCustom" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_CoDriver_RedCustom" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Trunk_RedCustom" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Hood_RedCustom" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Honda_Civic_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
