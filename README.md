@@ -2,8 +2,7 @@
 
 ## 4KBOSSKVehiclePackage
 >[!IMPORTANT]
-> #### 4KBOSSK Discord link below
-> ##### **4KBOSSK is the owner & creator of this mod.**
+> #### **4KBOSSK is the owner & creator of this mod.**
 > ##### [4KBOSSKVehiclePackage](https://steamcommunity.com/sharedfiles/filedetails/?id=3387855369&searchtext=4kboos)
 
 > [!TIP]
