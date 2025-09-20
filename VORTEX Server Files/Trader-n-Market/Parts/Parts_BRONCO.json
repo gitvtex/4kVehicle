@@ -1,0 +1,85 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BRONCO",
+  "Icon": "Car",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Bronco_Codriver_White",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Bronco_Codriver_Black",
+        "Bronco_Codriver_Blue",
+        "Bronco_Codriver_Hunter",
+        "Bronco_Codriver_Rust"
+      ]
+    },
+    {
+      "ClassName": "Bronco_Driverdoor_White",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Bronco_Driverdoor_Black",
+        "Bronco_Driverdoor_Blue",
+        "Bronco_Driverdoor_Hunter",
+        "Bronco_Driverdoor_Rust"
+      ]
+    },
+    {
+      "ClassName": "Bronco_Hood_White",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Bronco_Hood_Black",
+        "Bronco_Hood_Blue",
+        "Bronco_Hood_Hunter",
+        "Bronco_Hood_Rust"
+      ]
+    },
+    {
+      "ClassName": "Bronco_Trunk_White",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Bronco_Trunk_Black",
+        "Bronco_Trunk_Blue",
+        "Bronco_Trunk_Hunter",
+        "Bronco_Trunk_Rust"
+      ]
+    },
+    {
+      "ClassName": "bronco_wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

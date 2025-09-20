@@ -1,0 +1,88 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Nissan GTR Custom",
+  "Icon": "Car",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+   {
+    "ClassName": "NissanGTRCustom_Blood",
+    "MaxPriceThreshold": 405000,
+    "MinPriceThreshold": 405000,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+      "NissanGTRCustom_Driverdoor_Blood",
+      "NissanGTRCustom_Codriverdoor_Blood",
+      "NissanGTRCustom_Trunk_Blood",
+      "NissanGTRCustom_Hood_Blood",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "CarBattery",
+      "HeadlightH7",
+      "HeadlightH7",
+      "SparkPlug",
+      "CarRadiator",
+      "Wrench"
+    ],
+    "Variants": []
+  },
+  {
+    "ClassName": "NissanGTRCustom_LB",
+    "MaxPriceThreshold": 405000,
+    "MinPriceThreshold": 405000,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+      "NissanGTRCustom_Driverdoor_LB",
+      "NissanGTRCustom_Codriverdoor_LB",
+      "NissanGTRCustom_Trunk_LB",
+      "NissanGTRCustom_Hood_LB",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "CarBattery",
+      "HeadlightH7",
+      "HeadlightH7",
+      "SparkPlug",
+      "CarRadiator",
+      "Wrench"
+    ],
+    "Variants": []
+  },
+  {
+    "ClassName": "NissanGTRCustom_Pink",
+    "MaxPriceThreshold": 405000,
+    "MinPriceThreshold": 405000,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+      "NissanGTRCustom_Driverdoor_Pink",
+      "NissanGTRCustom_Codriverdoor_Pink",
+      "NissanGTRCustom_Trunk_Pink",
+      "NissanGTRCustom_Hood_Pink",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "CarBattery",
+      "HeadlightH7",
+      "HeadlightH7",
+      "SparkPlug",
+      "CarRadiator",
+      "Wrench"
+    ],
+    "Variants": []
+  }
+  ]
+}

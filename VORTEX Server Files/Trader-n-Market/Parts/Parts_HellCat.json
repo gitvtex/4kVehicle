@@ -1,0 +1,129 @@
+{
+  "m_Version": 12,
+  "DisplayName": "dodgechargerhellcat_Parts",
+  "Icon": "Car",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "dodgecharger_cargo1_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dodgecharger_cargo1_blue",
+        "dodgecharger_cargo1_green",
+        "dodgecharger_cargo1_lightblue",
+        "dodgecharger_cargo1_pink",
+        "dodgecharger_cargo1_red",
+        "dodgecharger_cargo1_white"
+      ]
+    },
+    {
+      "ClassName": "dodgecharger_cargo2_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dodgecharger_cargo2_blue",
+        "dodgecharger_cargo2_green",
+        "dodgecharger_cargo2_lightblue",
+        "dodgecharger_cargo2_pink",
+        "dodgecharger_cargo2_red",
+        "dodgecharger_cargo2_white"
+      ]
+    },
+    {
+      "ClassName": "dodgecharger_codriver_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dodgecharger_codriver_blue",
+        "dodgecharger_codriver_green",
+        "dodgecharger_codriver_lightblue",
+        "dodgecharger_codriver_pink",
+        "dodgecharger_codriver_red",
+        "dodgecharger_codriver_white"
+      ]
+    },
+    {
+      "ClassName": "dodgecharger_driverdoor_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dodgecharger_driverdoor_blue",
+        "dodgecharger_driverdoor_green",
+        "dodgecharger_driverdoor_lightblue",
+        "dodgecharger_driverdoor_pink",
+        "dodgecharger_driverdoor_red",
+        "dodgecharger_driverdoor_white"
+      ]
+    },
+    {
+      "ClassName": "dodgecharger_hood_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dodgecharger_hood_blue",
+        "dodgecharger_hood_green",
+        "dodgecharger_hood_lightblue",
+        "dodgecharger_hood_pink",
+        "dodgecharger_hood_red",
+        "dodgecharger_hood_white"
+      ]
+    },
+    {
+      "ClassName": "dodgecharger_trunk_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dodgecharger_trunk_blue",
+        "dodgecharger_trunk_green",
+        "dodgecharger_trunk_lightblue",
+        "dodgecharger_trunk_pink",
+        "dodgecharger_trunk_red",
+        "dodgecharger_trunk_white"
+      ]
+    },
+    {
+      "ClassName": "dodgecharger_wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Ford_Raptor_MonsterTruck_Parts",
+  "Icon": "Car",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fordraptor_Monster_wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fordraptormonster_codriver_Baja",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+"fordraptormonster_codriver_usa",
+        "fordraptormonster_codriver_Halo",
+        "fordraptormonster_codriver_Raptor",
+        "fordraptormonster_codriver_Roush",
+        "fordraptormonster_codriver_WideOpen"
+      ]
+    },
+    {
+      "ClassName": "fordraptormonster_driverdoor_Baja",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+"fordraptormonster_driverdoor_usa",
+        "fordraptormonster_driverdoor_Halo",
+        "fordraptormonster_driverdoor_Raptor",
+        "fordraptormonster_driverdoor_Roush",
+        "fordraptormonster_driverdoor_WideOpen"
+      ]
+    },
+    {
+      "ClassName": "fordraptormonster_trunk_Baja",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+"fordraptormonster_trunk_usa",
+        "fordraptormonster_trunk_Halo",
+        "fordraptormonster_trunk_Raptor",
+        "fordraptormonster_trunk_Roush",
+        "fordraptormonster_trunk_WideOpen"
+      ]
+    },
+    {
+      "ClassName": "fordraptormonster_hood_baja",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+"fordraptormonster_hood_halo",
+"fordraptormonster_hood_raptor",
+"fordraptormonster_hood_roush",
+"fordraptormonster_hood_usa",
+"fordraptormonster_hood_wideopen"
+      ]
+    }
+  ]
+}

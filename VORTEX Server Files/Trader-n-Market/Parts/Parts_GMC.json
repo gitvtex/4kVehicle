@@ -1,0 +1,133 @@
+{
+  "m_Version": 12,
+  "DisplayName": "GMC_BOSS_Parts",
+  "Icon": "Car",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "GMC_Cargo1",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GMC_Cargo1_Black",
+        "GMC_Cargo1_Blue",
+        "GMC_Cargo1_Police",
+        "GMC_Cargo1_White"
+      ]
+    },
+    {
+      "ClassName": "GMC_Cargo2",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GMC_Cargo2_Black",
+        "GMC_Cargo2_Blue",
+        "GMC_Cargo2_Police",
+        "GMC_Cargo2_White"
+      ]
+    },
+    {
+      "ClassName": "gmc_codriver",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+"gmc_codriver_black",
+"gmc_codriver_blue",
+"gmc_codriver_police",
+"gmc_codriver_white"
+      ]
+    },
+    {
+      "ClassName": "GMC_driverdoor",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GMC_driverdoor_Black",
+        "GMC_driverdoor_Blue",
+        "GMC_driverdoor_Police",
+        "GMC_driverdoor_White"
+      ]
+    },
+    {
+      "ClassName": "GMC_Hood",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GMC_Hood_Black",
+        "GMC_Hood_Blue",
+        "GMC_Hood_Police",
+        "GMC_Hood_White"
+      ]
+    },
+    {
+      "ClassName": "GMC_Trunk_1",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GMC_Trunk_1_Black",
+        "GMC_Trunk_1_Blue",
+        "GMC_Trunk_1_Police",
+        "GMC_Trunk_1_White"
+      ]
+    },
+    {
+      "ClassName": "GMC_Trunk_2",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GMC_Trunk_2_Black",
+        "GMC_Trunk_2_Blue",
+        "GMC_Trunk_2_Police",
+        "GMC_Trunk_2_White"
+      ]
+    },
+    {
+      "ClassName": "GMC_Wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

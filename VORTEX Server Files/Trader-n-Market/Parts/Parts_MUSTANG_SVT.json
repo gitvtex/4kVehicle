@@ -1,0 +1,97 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MUSTANG SVT",
+  "Icon": "Car",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "fordmustang_svt_codriverdoor_white",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fordmustang_svt_codriverdoor_blue",
+        "fordmustang_svt_codriverdoor_darkblue",
+        "fordmustang_svt_codriverdoor_green",
+        "fordmustang_svt_codriverdoor_orange",
+        "fordmustang_svt_codriverdoor_pink",
+        "FordMustang_SVT_Codriverdoor_Black",
+        "fordmustang_svt_codriverdoor_red"
+      ]
+    },
+    {
+      "ClassName": "fordmustang_svt_driverdoor_white",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordMustang_SVT_Driverdoor_Black",
+        "FordMustang_SVT_Driverdoor_Blue",
+        "FordMustang_SVT_Driverdoor_DarkBlue",
+        "FordMustang_SVT_Driverdoor_Green",
+        "FordMustang_SVT_Driverdoor_Orange",
+        "FordMustang_SVT_Driverdoor_Pink",
+        "FordMustang_SVT_Driverdoor_Red"
+      ]
+    },
+    {
+      "ClassName": "fordmustang_svt_hood_white",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordMustang_SVT_Hood_Black",
+        "FordMustang_SVT_Hood_Blue",
+        "FordMustang_SVT_Hood_DarkBlue",
+        "FordMustang_SVT_Hood_Green",
+        "FordMustang_SVT_Hood_Orange",
+        "FordMustang_SVT_Hood_Pink",
+        "FordMustang_SVT_Hood_Red"
+      ]
+    },
+    {
+      "ClassName": "FordMustang_SVT_Trunk_white",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordMustang_SVT_Trunk_Black",
+        "FordMustang_SVT_Trunk_Blue",
+        "FordMustang_SVT_Trunk_DarkBlue",
+        "FordMustang_SVT_Trunk_Green",
+        "FordMustang_SVT_Trunk_Orange",
+        "FordMustang_SVT_Trunk_Pink",
+        "FordMustang_SVT_Trunk_Red"
+      ]
+    },
+    {
+      "ClassName": "FordMustang_SVT_Wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
