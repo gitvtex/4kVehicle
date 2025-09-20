@@ -15,7 +15,7 @@
 
 # <INS>**VORTEX**</INS>
 > [!important]
-> ### Join ** Vortex** Discord:
+> ### Join **Vortex** Discord:
 > #### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
 
 
