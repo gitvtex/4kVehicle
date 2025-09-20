@@ -1,0 +1,88 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Nissan GTR Nismo",
+  "Icon": "Car",
+  "Color": "F2C70C",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+    "ClassName": "NissanGTRNismo_Black",
+    "MaxPriceThreshold": 405000,
+    "MinPriceThreshold": 405000,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+      "NissanGTR_Driverdoor_Black",
+      "NissanGTR_Codriverdoor_Black",
+      "NissanGTR_Trunk_Black",
+      "NissanGTR_Hood_Black",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "CarBattery",
+      "HeadlightH7",
+      "HeadlightH7",
+      "SparkPlug",
+      "CarRadiator",
+      "Wrench"
+    ],
+    "Variants": []
+  },
+  {
+    "ClassName": "NissanGTRNismo_DarkPurple",
+    "MaxPriceThreshold": 405000,
+    "MinPriceThreshold": 405000,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+      "NissanGTR_Driverdoor_DarkPurple",
+      "NissanGTR_Codriverdoor_DarkPurple",
+      "NissanGTR_Trunk_DarkPurple",
+      "NissanGTR_Hood_DarkPurple",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "CarBattery",
+      "HeadlightH7",
+      "HeadlightH7",
+      "SparkPlug",
+      "CarRadiator",
+      "Wrench"
+    ],
+    "Variants": []
+  },
+  {
+    "ClassName": "NissanGTRNismo_Red",
+    "MaxPriceThreshold": 405000,
+    "MinPriceThreshold": 405000,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+      "NissanGTR_Driverdoor_Red",
+      "NissanGTR_Codriverdoor_Red",
+      "NissanGTR_Trunk_Red",
+      "NissanGTR_Hood_Red",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "NissanGTRNismo_Wheel",
+      "CarBattery",
+      "HeadlightH7",
+      "HeadlightH7",
+      "SparkPlug",
+      "CarRadiator",
+      "Wrench"
+    ],
+    "Variants": []
+  }
+  ]
+}
