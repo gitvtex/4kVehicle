@@ -1,0 +1,48 @@
+<ce folder="4kcars_ce">
+		<file name="4kcars_Audi_RS6_ABT_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Audi_RS6_ABT_types.xml" type="types"/>
+		<file name="4kcars_BMW_M3_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_BMW_M3_types.xml" type="types"/>
+		<file name="4kcars_Chevrolet_NapalmNova_BOSS_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Chevrolet_NapalmNova_BOSS_types.xml" type="types"/>
+		<file name="4kcars_Civic_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Civic_types.xml" type="types"/>
+		<file name="4kcars_Dodge_ChallengerSRTSuperStock_BOSS_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Dodge_ChallengerSRTSuperStock_BOSS_types.xml" type="types"/>
+		<file name="4kcars_Dodge_ChargerHellcat_BOSS_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Dodge_ChargerHellcat_BOSS_types.xml" type="types"/>
+		<file name="4kcars_DodgeRam_2021_BOSS_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_DodgeRamm_2021_BOSS_types.xml" type="types"/>
+		<file name="4kcars_DodgeRam_3500_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_DodgeRamm_3500_types.xml" type="types"/>
+		<file name="4kcars_Jeep_GladiatorF9_BOSS_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Jeep_GladiatorF9_BOSS_types.xml" type="types"/>
+		<file name="4kcars_Ford_Bronco_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Ford_Bronco_types.xml" type="types"/>
+		<file name="4kcars_Ford_Crown_Victoria_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Ford_Crown_Victoria_types.xml" type="types"/>
+		<file name="4kcars_Ford_Mustang_SVT_types.xml" type="types"/>
+		<file name="4kcars_Ford_Mustang_SVT_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Skyline_types.xml" type="types"/>
+		<file name="4kcars_Skyline_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Toyota_SupraMKIV_types.xml" type="types"/>
+		<file name="4kcars_Toyota_SupraMKIV_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Kamaz_TyphoonK_spawnabletypes.xml" type="types"/>
+		<file name="4kcars_Kamaz_TyphoonK_types.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Mitsubishi_LancerEvolutionIX_BOSS_types.xml" type="types"/>
+		<file name="4kcars_Mitsubishi_LancerEvolutionIX_BOSS_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_MotorHome_BOSS_types.xml" type="types"/>
+		<file name="4kcars_MotorHome_BOSS_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Ford_Mustang_Shelby_GT500_types.xml" type="types"/>
+		<file name="4kcars_Ford_Mustang_Shelby_GT500_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Ford_Raptor_MonsterTruck_types.xml" type="types"/>
+		<file name="4kcars_Ford_Raptor_MonsterTruck_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Lifted_Tahoe_types.xml" type="types"/>
+		<file name="4kcars_Lifted_Tahoe_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_NissanGTRNismo_types.xml" type="types"/>
+		<file name="4kcars_NissanGTRNismo_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_Porsche_911RWB_1972_BOSS_types.xml" type="types"/>
+		<file name="4kcars_Porsche_911RWB_1972_BOSS_spawnabletypes.xml" type="cfgspawnabletypes" />
+		<file name="4kcars_ToyotaRunner_types.xml" type="types"/>
+		<file name="4kcars_ToyotaRunner_spawnabletypes.xml" type="cfgspawnabletypes" />
+	</ce>

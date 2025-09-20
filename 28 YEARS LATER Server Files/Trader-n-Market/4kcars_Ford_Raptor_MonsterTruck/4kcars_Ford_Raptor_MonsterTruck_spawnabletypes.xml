@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="Ford_Raptor_MonsterTruck_USA">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_driverdoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_codriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_Raptor_MonsterTruck_Halo">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_driverdoor_Halo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_codriver_Halo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_trunk_Halo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptorMonster_hood_Halo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_Raptor_MonsterTruck_WideOpen">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_driverdoor_WideOpen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_codriver_WideOpen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_trunk_WideOpen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptorMonster_hood_WideOpen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_Raptor_MonsterTruck_Roush">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_driverdoor_Roush" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_codriver_Roush" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_trunk_Roush" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptorMonster_hood_Roush" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_Raptor_MonsterTruck_Baja">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_driverdoor_Baja" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_codriver_Baja" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_trunk_Baja" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptorMonster_hood_Baja" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_Raptor_MonsterTruck_Raptor">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_driverdoor_Raptor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_codriver_Raptor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptormonster_trunk_Raptor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptorMonster_hood_Raptor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="fordraptor_monster_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
