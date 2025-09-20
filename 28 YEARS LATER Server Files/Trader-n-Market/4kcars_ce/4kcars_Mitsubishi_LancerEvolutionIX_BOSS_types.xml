@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="Mitsubishi_LancerEvolutionIX_Wheel">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Wheel_Destroyed">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_FastAnFurious">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_FastAnFurious2">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_bee">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_white">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_black">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_blue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_darkblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_green">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_lightblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_pink">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_red">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="MitsubishiEVO_yellow">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_fast2">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_fast2">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_fast2">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_fast2">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_fast2">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_fast2">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_bee">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_bee">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_bee">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_bee">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_bee">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_bee">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_white">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_white">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_white">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_white">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_white">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_white">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_black">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_black">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_black">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_black">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_black">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_black">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_blue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_blue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_blue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_blue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_blue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_blue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_darkblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_darkblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_darkblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_darkblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_darkblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_darkblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_lightblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_lightblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_lightblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_lightblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_lightblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_lightblue">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_green">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_green">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_green">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_green">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_green">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_green">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_yellow">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_yellow">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_yellow">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_yellow">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_yellow">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_yellow">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_red">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_red">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_red">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_red">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_red">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_red">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Driver_pink">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Trunk_pink">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Codriver_pink">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo1_pink">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Cargo2_pink">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Mitsubishi_LancerEvolutionIX_Hood_pink">
+		<nominal>1</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+</types>

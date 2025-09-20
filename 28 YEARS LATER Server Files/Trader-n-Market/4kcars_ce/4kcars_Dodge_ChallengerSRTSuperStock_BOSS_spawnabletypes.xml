@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="Dodge_ChallengerSRT_Blue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Driver_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_CoDriver_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Trunk_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Hood_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Dodge_ChallengerSRT_DarkBlue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Driver_DarkBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_CoDriver_DarkBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Trunk_DarkBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Hood_DarkBlue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Dodge_ChallengerSRT_White">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_CoDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Dodge_ChallengerSRT_Green">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Driver_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_CoDriver_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Trunk_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Hood_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Dodge_ChallengerSRT_Orange">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Driver_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_CoDriver_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Trunk_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Hood_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Dodge_ChallengerSRT_Red">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Driver_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_CoDriver_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Trunk_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Hood_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Dodge_ChallengerSRT_Black">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Driver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_CoDriver_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Trunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_Hood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Dodge_Challenger_WheelSRT" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

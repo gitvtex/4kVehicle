@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="Ford_Bronco_White">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Driverdoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Codriverdoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_Bronco_Rust">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Driverdoor_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Codriverdoor_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Trunk_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Hood_Rust" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel_Destroyed" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel_Destroyed" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel_Destroyed" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel_Destroyed" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_Bronco_Black">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Driverdoor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Codriverdoor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Trunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Hood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_Bronco_Hunter">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Driverdoor_Hunter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Codriverdoor_Hunter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Trunk_Hunter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Hood_Hunter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Ford_Bronco_Blue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Driverdoor_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Codriverdoor_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Trunk_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bronco_Hood_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bronco_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

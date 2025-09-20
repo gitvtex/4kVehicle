@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="NissanGTRNismo_White">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Driverdoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Codriverdoor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="NissanGTR_Black">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Driverdoor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Codriverdoor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Trunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Hood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="NissanGTRCustom_Blood">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRCustom_Driverdoor_Blood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRCustom_Codriverdoor_Blood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRCustom_Trunk_Blood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRCustom_Hood_Blood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="NissanGTR_Pink">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Driverdoor_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Codriverdoor_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Trunk_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Hood_Pink" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="NissanGTRCustom_LB">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRCustom_Driverdoor_LB" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRCustom_Codriverdoor_LB" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRCustom_Trunk_LB" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRCustom_Hood_LB" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="NissanGTRNismo_DarkPurple">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Driverdoor_DarkPurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Codriverdoor_DarkPurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Trunk_DarkPurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Hood_DarkPurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="NissanGTRNismo_DarkPurple">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Driverdoor_DarkPurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Codriverdoor_DarkPurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Trunk_DarkPurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Hood_DarkPurple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="NissanGTR_Red">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Driverdoor_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Codriverdoor_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Trunk_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTR_Hood_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NissanGTRNismo_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
