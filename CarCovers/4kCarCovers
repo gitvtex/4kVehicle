@@ -1,0 +1,353 @@
+{
+    "ItemDamage": 0,
+    "CarCovers": [
+        {
+            "CoverName": "GMC_BOSS_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "GMC_BOSS_Red",
+                "GMC_BOSS_Black",
+                "GMC_BOSS_White",
+                "GMC_BOSS_Blue"
+            ]
+        },
+        {
+            "CoverName": "Audi_RS6_ABT_Base_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Audi_RS6_ABT_White",
+                "Audi_RS6_ABT_Red",
+                "Audi_RS6_ABT_Blue",
+                "Audi_RS6_ABT_Yellow",
+                "Audi_RS6_ABT_Green",
+                "Audi_RS6_ABT_Pink",
+                "Audi_RS6_ABT_Teal",
+                "Audi_RS6_ABT_MidNightBlue",
+                "Audi_RS6_ABT_Black"
+            ]
+        },
+        {
+            "CoverName": "Chevrolet_NapalmNova_Base_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Chevrolet_NapalmNova_Black",
+                "Chevrolet_NapalmNova_White",
+                "Chevrolet_NapalmNova_Red",
+                "Chevrolet_NapalmNova_Blue",
+                "Chevrolet_NapalmNova_Pink",
+                "Chevrolet_NapalmNova_Green",
+                "Chevrolet_NapalmNova_Yellow",
+                "Chevrolet_NapalmNova_Orange",
+                "Chevrolet_NapalmNova_Purple"
+            ]
+        },
+        {
+            "CoverName": "Dodge_ChallengerSRT_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Dodge_ChallengerSRT_White",
+                "Dodge_ChallengerSRT_DarkBlue",
+                "Dodge_ChallengerSRT_Black",
+                "Dodge_ChallengerSRT_Blue",
+                "Dodge_ChallengerSRT_Red",
+                "Dodge_ChallengerSRT_Green",
+                "Dodge_ChallengerSRT_Orange"
+            ]
+        },
+        {
+            "CoverName": "dodgechargerhellcat_base_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "dodgechargerhellcat_black",
+                "dodgechargerhellcat_blue",
+                "dodgechargerhellcat_green",
+                "dodgechargerhellcat_red",
+                "dodgechargerhellcat_pink",
+                "dodgechargerhellcat_lightblue",
+                "dodgechargerhellcat_white"
+            ]
+        },
+        {
+            "CoverName": "DodgeRam_BOSS_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "DodgeRam_BOSS_Yellow",
+                "DodgeRam_BOSS_Green",
+                "DodgeRam_BOSS_White",
+                "DodgeRam_BOSS_Teal",
+                "DodgeRam_BOSS_Black",
+                "DodgeRam_BOSS_Red",
+                "DodgeRam_BOSS_Blue",
+                "DodgeRam_BOSS_camoblack",
+                "DodgeRam_BOSS_camoblue",
+                "DodgeRam_BOSS_camowhite",
+                "DodgeRam_BOSS_camored",
+                "DodgeRam_BOSS_camogreen",
+                "DodgeRam_BOSS_camonuke"
+            ]
+        },
+        {
+            "CoverName": "Ford_Bronco_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Ford_Bronco_White",
+                "Ford_Bronco_Rust",
+                "Ford_Bronco_Hunter",
+                "Ford_Bronco_Black",
+                "Ford_Bronco_Blue"
+            ]
+        },
+        {
+            "CoverName": "FordRaptor_MonsterTruck_base_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Ford_Raptor_MonsterTruck_Halo",
+                "Ford_Raptor_MonsterTruck_WideOpen",
+                "Ford_Raptor_MonsterTruck_Roush",
+                "Ford_Raptor_MonsterTruck_Baja",
+                "Ford_Raptor_MonsterTruck_Raptor"
+            ]
+        },
+        {
+            "CoverName": "Jeep_GladiatorF9_BOSS_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Jeep_GladiatorF9_BOSS_White",
+                "Jeep_GladiatorF9_BOSS_Black",
+                "Jeep_GladiatorF9_BOSS_Brown",
+                "Jeep_GladiatorF9_BOSS_DarkRed",
+                "Jeep_GladiatorF9_BOSS_DarkBlue",
+                "Jeep_GladiatorF9_BOSS_camo_green",
+                "Jeep_GladiatorF9_BOSS_camo_red",
+                "Jeep_GladiatorF9_BOSS_camo_blue",
+                "Jeep_GladiatorF9_BOSS_camo_black",
+				"Jeep_GladiatorF9_BOSS_Gold"
+            ]
+        },
+        {
+            "CoverName": "Lifted_Tahoe_Base_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Tahoe_White",
+                "Tahoe_LightBlue",
+                "Tahoe_Black",
+                "Tahoe_Blue",
+                "Tahoe_Brown",
+                "Tahoe_DarkBlue",
+                "Tahoe_Green",
+                "Tahoe_Pink",
+                "Tahoe_Red"
+            ]
+        },
+        {
+            "CoverName": "MitsubishiEVO_Base_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "MitsubishiEVO_FastAnFurious",
+                "MitsubishiEVO_FastAnFurious2",
+                "MitsubishiEVO_bee",
+                "MitsubishiEVO_white",
+                "MitsubishiEVO_black",
+                "MitsubishiEVO_blue",
+                "MitsubishiEVO_darkblue",
+                "MitsubishiEVO_green",
+                "MitsubishiEVO_lightblue",
+                "MitsubishiEVO_pink",
+                "MitsubishiEVO_red",
+                "MitsubishiEVO_yellow"
+            ]
+        },
+        {
+            "CoverName": "MotorHome_Base_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "MotorHome_Apo",
+                "MotorHome_Rust",
+                "MotorHome_White",
+                "MotorHome_GreenCamo"
+            ]
+        },
+        {
+            "CoverName": "Nissan_Skyline_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Nissan_Skyline_White",
+                "Nissan_Skyline_Blue",
+                "Nissan_Skyline_Black",
+                "Nissan_Skyline_Pink",
+                "Nissan_Skyline_Orange",
+                "Nissan_Skyline_Red"
+            ]
+        },
+        {
+            "CoverName": "NissanGTRNismo_Base_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "NissanGTRNismo_White",
+                "NissanGTRNismo_Red",
+                "NissanGTRNismo_Black",
+                "NissanGTRNismo_DarkPurple",
+                "NissanGTR_White",
+                "NissanGTR_Green",
+                "NissanGTR_Orange",
+                "NissanGTR_Pink",
+                "NissanGTR_Blue",
+                "NissanGTR_Red",
+                "NissanGTRCustom_Black",
+                "NissanGTRCustom_Blood",
+                "NissanGTRCustom_LB",
+                "NissanGTRCustom_Pink"
+            ]
+        },
+        {
+            "CoverName": "Porsche_911RWB_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Porsche_911RWB_White",
+                "Porsche_911RWB_Black",
+                "Porsche_911RWB_Pink",
+                "Porsche_911RWB_Blue",
+                "Porsche_911RWB_Orange",
+                "Porsche_911RWB_Green",
+                "Porsche_911RWB_Red"
+            ]
+        },
+        {
+            "CoverName": "Supra_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Supra_FastF",
+                "Supra_Green",
+                "Supra_Blue",
+                "Supra_White",
+                "Supra_Black",
+                "Supra_Red",
+                "Supra_Sponge",
+                "Supra_Lighting"
+            ]
+        },
+        {
+            "CoverName": "ToyotaRunner_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "ToyotaRunner_Black",
+                "ToyotaRunner_camoblack",
+                "ToyotaRunner_camowhite",
+                "ToyotaRunner_camogreen",
+                "ToyotaRunner_white",
+                "ToyotaRunner_red",
+                "ToyotaRunner_blue",
+                "ToyotaRunner_camored",
+                "ToyotaRunner_camopink",
+                "ToyotaRunner_pink",
+                "ToyotaRunner_yellow",
+                "ToyotaRunner_camoblue",
+                "ToyotaRunner_BOSS",
+                "ToyotaRunner_camopurple"
+            ]
+        },
+        {
+            "CoverName": "TyphoonK_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+				"TyphoonK_CamoGreen",
+				"TyphoonK_Police",
+                "Kamaz_TyphoonK_Green",
+                "Kamaz_TyphoonK_CamoGreen",
+				"Kamaz_TyphoonK_CamoGreen2",
+				"Kamaz_TyphoonK_CamoGreen3",
+				"Kamaz_TyphoonK_RedCamo",
+				"Kamaz_TyphoonK_White",
+				"Kamaz_TyphoonK_Black",
+				"Kamaz_TyphoonK_Rusty"
+				
+            ]
+        },
+        {
+            "CoverName": "TUKTUK_Base_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "TukTuk_Blue",
+                "TukTuk_Green"
+            ]
+        },
+        {
+            "CoverName": "Mustang_Shelby_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Ford_Mustang_Shelby_GT500_White",
+                "Ford_Mustang_Shelby_GT500_Black",
+                "Ford_Mustang_Shelby_GT500_Blue",
+                "Ford_Mustang_Shelby_GT500_DarkBlue",
+				"Ford_Mustang_Shelby_GT500_Green",
+				"Ford_Mustang_Shelby_GT500_Orange",
+				"Ford_Mustang_Shelby_GT500_Pink",
+				"Ford_Mustang_Shelby_GT500_Red"
+            ]
+        },
+        {
+            "CoverName": "Civic_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "Civic_White",
+                "Civic_Red",
+                "Civic_Black",
+                "Civic_Blue",
+                "Civic_Green",
+                "Civic_Yellow",
+                "Civic_RedCustom"
+            ]
+        },
+        {
+            "CoverName": "BMWM3_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "BMW_M3_White",
+                "BMW_M3_Black",
+                "BMW_M3_MidNightBlue",
+                "BMW_M3_Green",
+                "BMW_M3_Orange",
+                "BMW_M3_Blue",
+                "BMW_M3_Red"
+            ]
+        },
+        {
+            "CoverName": "Dodge3500_Cover",
+            "Offset": 0.0,
+            "CarClasses": [
+                "DodgeRam_3500_Red",
+                "DodgeRam_3500_White",
+                "DodgeRam_3500_Green",
+                "DodgeRam_3500_Grey",
+                "DodgeRam_3500_Black",
+                "DodgeRam_3500_Orange",
+                "DodgeRam_3500_Purple",
+                "DodgeRam_3500_Yellow",
+                "DodgeRam_3500_Cyan",
+                "DodgeRam_3500_AJ45",
+                "DodgeRam_3500_BlueTiger",
+                "DodgeRam_3500_KBTGR",
+                "DodgeRam_3500_M81",
+                "DodgeRam_3500_RealTree",
+                "DodgeRam_3500_Redtiger",
+                "DodgeRam_3500_ScamTopia",
+                "DodgeRam_3500RollbarRollbar_Red",
+                "DodgeRam_3500Rollbar_White",
+                "DodgeRam_3500Rollbar_Green",
+                "DodgeRam_3500Rollbar_Grey",
+                "DodgeRam_3500Rollbar_Black",
+                "DodgeRam_3500Rollbar_Orange",
+                "DodgeRam_3500Rollbar_Purple",
+                "DodgeRam_3500Rollbar_Yellow",
+                "DodgeRam_3500Rollbar_Cyan",
+                "DodgeRam_3500Rollbar_AJ45",
+                "DodgeRam_3500Rollbar_BlueTiger",
+                "DodgeRam_3500Rollbar_KBTGR",
+                "DodgeRam_3500Rollbar_M81",
+                "DodgeRam_3500Rollbar_RealTree",
+                "DodgeRam_3500Rollbar_Redtiger",
+                "DodgeRam_3500Rollbar_ScamTopia"
+            ]
+        }
+    ]
+}
