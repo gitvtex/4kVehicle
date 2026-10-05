@@ -18,7 +18,7 @@
 > #### [VORTEX DISCORD](https://discord.gg/HYZXB2fWZ2)
 > _If you have questions, please put a ticket in_
 
-> [!CAUTION]
+> [!NOTE]
 > The files being posted here are for public use that **4KBOSSK** has kindly allowed to help him as well as others. The idea and purpose of this is to have all the gathered information located in in one location for the 4k vehicles.
 
 [!REMEMBER]
