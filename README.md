@@ -8,7 +8,7 @@
 > [!TIP]
 > Any questions about the mod, please join the 4KBOSSK DISCORD and inquire more information below.
 > #### [4KBOSSK DISCORD](https://discord.gg/bZZjpSvpMP)
-> [!NOTE]
+>[!NOTE]
 > _All the files listed have been created in regards to helping others & **4KBOSSK**. I do NOT own this mod, I did not create this mod. **4KBOSSK** is the one who has created this mod and put in the time over the years to build this vehicle mod, that he kindley shares for free_
 
 # <INS>VORTEX</INS>
