@@ -22,7 +22,7 @@
 > [!NOTE]
 > The files being posted here are for public use that **4KBOSSK** has kindly allowed to help him as well as others. The idea and purpose of this is to have all the gathered information located in in one location for the 4k vehicles.
 
-[!REMEMBER]
+> [!REMEMBER]
 We have decided to take our personal unpaid time to invest into making the **DayZ** game more fun and better for everyone. We willing volunteer to do these things to make your gamming a little bit more smoother, better, faster, stronger and to help keep the game alive and thriving.
 
 >[!WARNING]
